@@ -10,9 +10,5 @@ from scrapy.item import Item, Field
 
 class DmozItem(Item):
 	title = Field()
-	link = Field
-	desc = 
-# class TutorialItem(scrapy.Item):
-#     # define the fields for your item here like:
-#     # name = scrapy.Field()
-#     pass
+	link = Field()
+	desc = Field()
