@@ -27,7 +27,7 @@ def do_google_search(search_term, api_key, cse_id, **kwargs):
 
 def get_job_listings_from_google():
     results = []
-    for number_of_search_result_being_processed in range(1,31):
+    for number_of_search_result_being_processed in range(1,101):
         results.append(do_google_search(
             search_term='junior+remote site:jobs.lever.co',
             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
@@ -40,23 +40,27 @@ def save_api_call_results():
         f.write(json.dumps(get_job_listings_from_google(), sort_keys = True,
                 indent = 4))
 
-def send_job_listings_to_codeforcash(listings):
-    data_to_send_in_request_body = {
-        'key': CODEFORCASH_API_KEY,
-        'title': listings[0]['title'],
-        'website': listings[0]['link'],
-        'desciption': listings[0]['snippet'],
-        'utc_datetime': datetime.datetime.utcnow().isoformat(),
-        'lat': '',
-        'lng': '',
-        'country': '',
-        'employment_type': '',
-        'remote_ok': '',
-        'time_commitment': ''
-    }
-    return requests.post(
-        url=CODEFORCASH_BASE_URL+'/api/metum/create',
-        json=data_to_send_in_request_body)
+# def send_job_listings_to_codeforcash(listings):
+#     data_to_send_in_request_body = {
+#         'key': CODEFORCASH_API_KEY,
+#         'title': listings[0]['title'],
+#         'website': listings[0]['link'],
+#         'description': listings[0]['snippet'],
+#         'utc_datetime': datetime.datetime.utcnow().isoformat(),
+#         'lat': '',
+#         'lng': '',
+#         'country': '',
+#         'employment_type': '',
+#         'remote_ok': '',
+#         'time_commitment': ''
+#     }
+
+#     for data_key in data_to_send_in_request_body:
+#         data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key].replace(chr(127), '')
+
+#     return requests.post(
+#         url=CODEFORCASH_BASE_URL+'/api/metum/create',
+#         data=data_to_send_in_request_body)
 
 
 def save_result_of_sending_job_listings_to_codeforcash(listings):
