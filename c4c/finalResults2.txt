@@ -143,44 +143,43 @@
         "title": "Visier - Junior Software Developer - Vancouver"
     }, 
     {
-        "cacheId": "bzboMQ9CAncJ", 
+        "cacheId": "RMHzyoj9siMJ", 
         "displayLink": "jobs.lever.co", 
-        "formattedUrl": "https://jobs.lever.co/.../164fbcb1-ccb8-44f8-b155-152909ec4c84", 
-        "htmlFormattedUrl": "https://jobs.lever.co/.../164fbcb1-ccb8-44f8-b155-152909ec4c84", 
-        "htmlSnippet": "To this end, a <b>Junior</b> Software Engineer in Advertising must have the ability to <br>\ndeliver HTML and <b>javascript</b> code in a time-sensitive manner. In their position, <br>\nthey&nbsp;...", 
-        "htmlTitle": "The Meet Group - <b>Junior</b> Software Engineer - Advertising", 
+        "formattedUrl": "https://jobs.lever.co/...io/da53c3b2-df88-4b7c-97a2-514d32b4d5e6", 
+        "htmlFormattedUrl": "https://jobs.lever.co/...io/da53c3b2-df88-4b7c-97a2-514d32b4d5e6", 
+        "htmlSnippet": "We are also working on a public <b>JavaScript</b> SDK and are exploring writing an ... <br>\nimplementing best practices, and recommending resources <b>junior</b> engineers can<br>\n&nbsp;...", 
+        "htmlTitle": "Frame.io - Front End Engineer", 
         "kind": "customsearch#result", 
-        "link": "https://jobs.lever.co/meetgroup/164fbcb1-ccb8-44f8-b155-152909ec4c84", 
+        "link": "https://jobs.lever.co/frame.io/da53c3b2-df88-4b7c-97a2-514d32b4d5e6", 
         "pagemap": {
             "cse_image": [
                 {
-                    "src": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972283470.png"
+                    "src": "https://lever-client-logos.s3.amazonaws.com/1b471605-69bb-4be2-b37b-471c67459b44-1491924454391.png"
                 }
             ], 
             "cse_thumbnail": [
                 {
-                    "height": "159", 
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwzttIfmbF3cHuh7z1NAjhqWgCsfzq2Jouny4VdtE9eEK2aAvmHaOM_s", 
-                    "width": "318"
+                    "height": "107", 
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXRbQxqnNPOKU1NrZR4NfUDuKjoma3CIBqvIolL6wT9Xg4o4sw4M97mQ", 
+                    "width": "470"
                 }
             ], 
             "metatags": [
                 {
-                    "og:description": "As engineers, we believe Engineering Serendipity is more than a kick-ass statement; we believe it\u2019s our goal. From conceptualization through completion, every product and feature we build is designed to improve the friendship-making experience of our members. To this end, a Junior Software Engineer in Advertising must have the ability to deliver HTML and javascript code in a time-sensitive manner. In their position, they must also be a good team player and deliver software which meets the needs and goals of stakeholders.", 
-                    "og:image": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972283470.png", 
-                    "og:image:height": "630", 
-                    "og:image:width": "1200", 
-                    "og:title": "The Meet Group - Junior Software Engineer - Advertising", 
-                    "og:url": "https://jobs.lever.co/meetgroup/164fbcb1-ccb8-44f8-b155-152909ec4c84", 
-                    "twitter:description": "As engineers, we believe Engineering Serendipity is more than a kick-ass statement; we believe it\u2019s our goal. From conceptualization through completion, every product and feature we build is designed to improve the friendship-making experience of our members. To this end, a Junior Software Engineer in Advertising must have the ability to deliver HTML and javascript code in a time-sensitive manner. In their position, they must also be a good team player and deliver software which meets the needs and goals of stakeholders.", 
-                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972272902.png", 
-                    "twitter:title": "The Meet Group - Junior Software Engineer - Advertising", 
+                    "og:description": "Front End Engineer Frame.io is a media collaboration platform backed by Accel, SignalFire, Jared Leto, Kevin Spacey, and a host of other phenomenal investors. We've built a highly functional and market leading product used by companies such as Apple, Facebook, Disney, Uber, Spotify, NASA, Snapchat, BBC, BuzzFeed, Tesla, TED, Adobe, Udemy, and many more! Tech Stack Frame.io aims to be the thread that runs through the entire video editing, review, and presentation process. To do that we need to be on a range of platforms and integrate seamlessly with leading industry tools. Our back-end is built with Ruby, AWS, and DynamoDB and we have services and integrations written in JavaScript and CoffeeScript. We have a Final Cut Pro companion app written in Objective-C (soon to be converted to Swift) and an iOS app written entirely in Swift. Position Overview We are in the process of rewriting our front end stack, currently written in CoffeeScript, in React. You will be responsible for buildin", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/1b471605-69bb-4be2-b37b-471c67459b44-1491924454391.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Frame.io - Front End Engineer", 
+                    "og:url": "https://jobs.lever.co/frame.io/da53c3b2-df88-4b7c-97a2-514d32b4d5e6", 
+                    "twitter:description": "Front End Engineer Frame.io is a media collaboration platform backed by Accel, SignalFire, Jared Leto, Kevin Spacey, and a host of other phenomenal investors. We've built a highly functional and market leading product used by companies such as Apple, Facebook, Disney, Uber, Spotify, NASA, Snapchat, BBC, BuzzFeed, Tesla, TED, Adobe, Udemy, and many more! Tech Stack Frame.io aims to be the thread that runs through the entire video editing, review, and presentation process. To do that we need to be on a range of platforms and integrate seamlessly with leading industry tools. Our back-end is built with Ruby, AWS, and DynamoDB and we have services and integrations written in JavaScript and CoffeeScript. We have a Final Cut Pro companion app written in Objective-C (soon to be converted to Swift) and an iOS app written entirely in Swift. Position Overview We are in the process of rewriting our front end stack, currently written in CoffeeScript, in React. You will be responsible for buildin", 
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/1b471605-69bb-4be2-b37b-471c67459b44-1491921992842.png", 
+                    "twitter:title": "Frame.io - Front End Engineer", 
                     "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
                 }
             ]
         }, 
-        "snippet": "To this end, a Junior Software Engineer in Advertising must have the ability to \ndeliver HTML and javascript code in a time-sensitive manner. In their position, \nthey\u00a0...", 
-        "title": "The Meet Group - Junior Software Engineer - Advertising"
+        "snippet": "We are also working on a public JavaScript SDK and are exploring writing an ... \nimplementing best practices, and recommending resources junior engineers can\n\u00a0...", 
+        "title": "Frame.io - Front End Engineer"
     }, 
     {
         "cacheId": "--feGDrX2G0J", 
@@ -277,7 +276,7 @@
                 {
                     "height": "153", 
                     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBTIRg2we60mBKH8YCVgiy0u2_YHplg6BlQX5uO7Xn_8TaimT3AdpwG6Y", 
-                    "width":`"330"
+                    "width": "330"
                 }
             ], 
             "metatags": [
@@ -295,5 +294,81 @@
         }, 
         "snippet": "Girls Who Code is looking for a Junior Application Developer to join its ... \nProficiency in at least one programming language (Java, JavaScript, C#/C++,\u00a0...", 
         "title": "Girls Who Code - Junior Application Developer"
+    }, 
+    {
+        "cacheId": "91V-OQsYidsJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/infor/0318fe6b-4765-48e3-b101-2710af05e055", 
+        "htmlFormattedUrl": "https://jobs.lever.co/infor/0318fe6b-4765-48e3-b101-2710af05e055", 
+        "htmlSnippet": "<b>Junior</b> Software Developer. New York, NY ... We use Java and <b>JavaScript</b> mostly <br>\nwith Python sprinkled in (but welcome polyglots). Job Responsibilities:.", 
+        "htmlTitle": "GT Nexus - <b>Junior</b> Software Developer", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/infor/0318fe6b-4765-48e3-b101-2710af05e055", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/40042347-dfa7-4748-8476-a545e92b8f2b-1467346204504.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "105", 
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU6KryLmoHboaEEQyvDSKzRspPSrmmufAv_dzMLiaiCY8D1yMUd3nBeA", 
+                    "width": "400"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Job Purpose: We are looking for software developers who can build and support the foundational components underlying the GT Nexus Cloud. We run a 24/7 highly available cloud application that supports thousands of customers in every time zone, handles billions of dollars and integrates hundreds of components. These requirements demand a sound technical foundation. We are hiring for the team that provides this foundation. We design frameworks that are robust against failure, libraries that measure performance, tweak JVM\u2019s, scale data systems, insure security, guarantee up-time and destroy tech debt. We are a small team of talented programmers focused on delivering a stable, resilient foundation for the wider development team to build upon. We are first, second and third, software engineers. But, we understand the whole stack, from kernel tuning to http acceleration.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/40042347-dfa7-4748-8476-a545e92b8f2b-1467346204504.png", 
+                    "og:image:height": "200", 
+                    "og:title": "GT Nexus - Junior Software Developer", 
+                    "og:url": "https://jobs.lever.co/infor/0318fe6b-4765-48e3-b101-2710af05e055", 
+                    "twitter:description": "Job Purpose: We are looking for software developers who can build and support the foundational components underlying the GT Nexus Cloud. We run a 24/7 highly available cloud application that supports thousands of customers in every time zone, handles billions of dollars and integrates hundreds of components. These requirements demand a sound technical foundation. We are hiring for the team that provides this foundation. We design frameworks that are robust against failure, libraries that measure performance, tweak JVM\u2019s, scale data systems, insure security, guarantee up-time and destroy tech debt. We are a small team of talented programmers focused on delivering a stable, resilient foundation for the wider development team to build upon. We are first, second and third, software engineers. But, we understand the whole stack, from kernel tuning to http acceleration.", 
+                    "twitter:title": "GT Nexus - Junior Software Developer", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Junior Software Developer. New York, NY ... We use Java and JavaScript mostly \nwith Python sprinkled in (but welcome polyglots). Job Responsibilities:.", 
+        "title": "GT Nexus - Junior Software Developer"
+    }, 
+    {
+        "cacheId": "72pnUdwc5yUJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../e18707ed-721b-44ba-8ca0-bf685546aea5", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../e18707ed-721b-44ba-8ca0-bf685546aea5", 
+        "htmlSnippet": "<b>Junior</b> Frontend Engineer (m/f) ... Solid understanding of HTML, CSS and <br>\n<b>Javascript</b>; Be up to date in terms of new design trends and frameworks; Nice to <br>\nhave:&nbsp;...", 
+        "htmlTitle": "Comtravo - <b>Junior</b> Frontend Engineer (m/f)", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/comtravo/e18707ed-721b-44ba-8ca0-bf685546aea5", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/03ca277f-034f-4ed7-94c3-21c5bd5293e6-1493813381868.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "96", 
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsvQ6SwRpJ0gQGq-BCiM_apU7c21Pyn2olRctleXB8SwxhmVGtZjqYB9E", 
+                    "width": "522"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Comtravo is a well funded tech startup in the heart of Berlin! Our innovative technology enables small and medium-sized enterprises to book business trips fast and conveniently. While we see huge demand for this it is a huge challenge to handle this in a automated and scalable fashion. And this is where you come into play. We are looking for a front end developer to join our Engineering team. You will be working on customer facing products trying to make the corporate travel industry a little bit more fun. Interested in joining us on our journey in developing a revolutionary Travel Product?", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/03ca277f-034f-4ed7-94c3-21c5bd5293e6-1493813381868.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Comtravo - Junior Frontend Engineer (m/f)", 
+                    "og:url": "https://jobs.lever.co/comtravo/e18707ed-721b-44ba-8ca0-bf685546aea5", 
+                    "twitter:description": "Comtravo is a well funded tech startup in the heart of Berlin! Our innovative technology enables small and medium-sized enterprises to book business trips fast and conveniently. While we see huge demand for this it is a huge challenge to handle this in a automated and scalable fashion. And this is where you come into play. We are looking for a front end developer to join our Engineering team. You will be working on customer facing products trying to make the corporate travel industry a little bit more fun. Interested in joining us on our journey in developing a revolutionary Travel Product?", 
+                    "twitter:title": "Comtravo - Junior Frontend Engineer (m/f)", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Junior Frontend Engineer (m/f) ... Solid understanding of HTML, CSS and \nJavascript; Be up to date in terms of new design trends and frameworks; Nice to \nhave:\u00a0...", 
+        "title": "Comtravo - Junior Frontend Engineer (m/f)"
     }
 ]
