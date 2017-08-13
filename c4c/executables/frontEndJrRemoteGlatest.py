@@ -29,13 +29,13 @@ def get_job_listings_from_google():
     results = []
     for number_of_search_result_being_processed in range(1,31):
         results.append(do_google_search(
-            search_term='java site:jobs.lever.co',
+            search_term='junior+remote site:jobs.lever.co',
             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
             num=1, start=number_of_search_result_being_processed)[0])
     return results
     
 
-def save_api_call_results(listings):
+def save_api_call_results():
     with open('finalResults.txt','w') as f:
         f.write(json.dumps(get_job_listings_from_google(), sort_keys = True,
                 indent = 4))
@@ -45,14 +45,14 @@ def send_job_listings_to_codeforcash(listings):
         'key': CODEFORCASH_API_KEY,
         'title': listings[0]['title'],
         'website': listings[0]['link'],
-        'description': listings[0]['snippet'],
+        'desciption': listings[0]['snippet'],
         'utc_datetime': datetime.datetime.utcnow().isoformat(),
-        'lat': '',
-        'lng': '',
-        'country': '',
-        'employment_type': '',
-        'remote_ok': '',
-        'time_commitment': ''
+        #'lat': '',
+        #'lng': '',
+        #'country': '',
+        #'employment_type': '',
+        #'remote_ok': '',
+        #'time_commitment': ''
     }
 
     for data_key in data_to_send_in_request_body:
@@ -60,7 +60,7 @@ def send_job_listings_to_codeforcash(listings):
 
     return requests.post(
         url=CODEFORCASH_BASE_URL+'/api/metum/create',
-        data=data_to_send_in_request_body)
+        json=data_to_send_in_request_body)
 
 
 def save_result_of_sending_job_listings_to_codeforcash(listings):

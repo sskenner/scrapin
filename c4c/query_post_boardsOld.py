@@ -29,13 +29,13 @@ def get_job_listings_from_google():
     results = []
     for number_of_search_result_being_processed in range(1,31):
         results.append(do_google_search(
-            search_term='java site:jobs.lever.co',
+            search_term='junior+remote site:jobs.lever.co',
             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
             num=1, start=number_of_search_result_being_processed)[0])
     return results
     
 
-def save_api_call_results(listings):
+def save_api_call_results():
     with open('finalResults.txt','w') as f:
         f.write(json.dumps(get_job_listings_from_google(), sort_keys = True,
                 indent = 4))
@@ -62,10 +62,12 @@ def send_job_listings_to_codeforcash(listings):
         url=CODEFORCASH_BASE_URL+'/api/metum/create',
         data=data_to_send_in_request_body)
 
-
 def save_result_of_sending_job_listings_to_codeforcash(listings):
-    with open('responseFromCodeforcash','wb') as f:
-        pickle.dump(send_job_listings_to_codeforcash(listings), f)
+    print(send_job_listings_to_codeforcash(get_job_listings_from_google()))
+    
+# def save_result_of_sending_job_listings_to_codeforcash(listings):
+#     with open('responseFromCodeforcash','wb') as f:
+#         pickle.dump(send_job_listings_to_codeforcash(listings), f)
 
 
 if __name__ == '__main__':
